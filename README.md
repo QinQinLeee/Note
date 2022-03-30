@@ -73,7 +73,7 @@
 
 ### 换算           
 * [日期计算](http://bjtime.cn/riqi/)      
-* [数据速度计算](http://www.zhongguosou.com/computer_question_tools/data_rate_caculator.html)      
+* [数据速率计算](http://www.zhongguosou.com/computer_question_tools/data_rate_caculator.html)      
 * [LaTeX公式编辑器](https://www.latexlive.com/)           
           
 ### 播放器/浏览器/阅读器     
