@@ -11,6 +11,9 @@
 * [老牌技术流奈飞机场/广义翻墙VPN/梯子](./tool/Airport.md)(覆盖全球各地区原生IP解锁流媒体。站内同时提供 安卓/iOS/windows/MacOS/Linux 主流客户端下载)             
 * [OpenWrt_中国大陆_反防火长城](https://bingmeme.github.io/OpenWrt_CN/) (路由器翻墙)            
 
+### 实用脚本   
+* [批量重命名文件](https://github.com/QinQinLeee/Note_File/releases/tag/rename)
+
 ### telegram全平台客户端及汉化
 * [telegram官方下载地址](https://telegram.org/apps)               
 * [telegram汉化简体(推荐第三方)](https://t.me/setlanguage/classic-zh)     
