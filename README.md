@@ -4,7 +4,7 @@
 * 笔记上次更新时间：`2022.03.31`                   
 
 ## 上网目的相关           
-* [影视剧资源分享](https://t.me/joinchat/AAAAAEhkwtQjONQXe--Z8g)        
+* [全球热门影视剧下载资源推送](https://t.me/joinchat/AAAAAEhkwtQjONQXe--Z8g)        
 
 ## 上网工具相关
 
