@@ -8,8 +8,7 @@
 
 ## 上网工具相关
 
-### 翻墙           
-* [购买翻墙线路](./tool/Airport.md)(全球各地原生IP，提供 安卓、苹果、windows、Mac OS 的客户端)                      
+### 翻墙                           
 * [OpenWrt_CN](https://bingmeme.github.io/OpenWrt_CN/) (路由器翻墙)            
 
 ### 实用脚本   
