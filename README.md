@@ -89,8 +89,8 @@
 ### 分区
 * [傲梅分区助手](https://www.disktool.cn/)             
 
-### deepfake
-* [deepfake中文网](https://www.deepfaker.xyz/)       
+### AI换脸
+* [DeepFake中文网](https://www.deepfaker.xyz/)       
 
 ### 综合软件程序下载站
 * [完美下载站](https://www.wmzhe.com/)        
