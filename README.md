@@ -8,7 +8,7 @@
 
 ## 上网工具相关
 
-### 翻墙                           
+### 翻墙客户端                           
 * [OpenWrt_CN](https://bingmeme.github.io/OpenWrt_CN/) (路由器翻墙)            
 
 ### 实用脚本   
