@@ -85,6 +85,8 @@
 
 ### 电脑管家
 * [硬盘大体积文件可视化查找](https://www.diskanalyzer.com/)      
+* [火绒安全](https://www.huorong.cn/)     
+* [微软电脑管家](https://www.bing.com/guanjia)            
 
 ### 分区
 * [傲梅分区助手](https://www.disktool.cn/)             
