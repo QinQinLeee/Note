@@ -57,7 +57,8 @@
 * [哔哩哔哩B站视频下载1](https://github.com/vooidzero/B23Downloader)      
 * [哔哩哔哩B站视频下载2](https://github.com/leiurayer/downkyi/releases)     
 * [网页在线视频自定义播放倍速插件](https://chrome.google.com/webstore/detail/video-speed-manager/fkopaaikpmfhpmoobnmklgmcgmhgfkcd)       
-* [YouTube视频下载](https://github.com/jely2002/youtube-dl-gui/releases) 
+* [YouTube视频下载1](https://github.com/jely2002/youtube-dl-gui/releases)      
+* [YouTube视频下载2](https://download.flvcd.com/youtube.html)
 * [Instagram下载照片和视频](https://instagram.iiilab.com/)          
 
 ### 网站搭建     
