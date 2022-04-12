@@ -8,8 +8,6 @@
 ## 上网目的相关           
 * [全球热门影视剧下载资源推送](https://t.me/joinchat/AAAAAEhkwtQjONQXe--Z8g)        
 
-<iframe width="100%" height="400" src="//player.bilibili.com/player.html?bvid=BV15A411x78v&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
-
 ## 上网工具相关
 
 ### telegram全平台客户端及汉化
@@ -17,6 +15,8 @@
 * [telegram汉化简体(推荐第三方)](https://t.me/setlanguage/classic-zh)     
 * [telegram汉化简体(官方测试版本)](https://t.me/setlanguage/zh-hans-raw)      
 * [telegram汉化繁体(官方测试版本)](https://t.me/setlanguage/zh-hant-raw)          
+
+<iframe width="100%" height="400" src="//player.bilibili.com/player.html?bvid=BV15A411x78v&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
 
 ### 实用脚本   
 * [批量文件重命名](https://github.com/QinQinLeee/Note_File/releases/tag/rename)         
@@ -89,7 +89,9 @@
 ### 压缩解压缩        
 * [Bandizip](https://www.bandisoft.com/bandizip/)
 
-### 电脑管家
+### 电脑管家        
+* [Nvidia显卡驱动管理GeForceExperience](https://www.nvidia.cn/geforce/geforce-experience/)
+* [英特尔驱动程序和支持助理](https://www.intel.cn/content/www/cn/zh/support/detect.html)
 * [硬盘大体积文件可视化查找](https://www.diskanalyzer.com/)      
 * [火绒安全](https://www.huorong.cn/)     
 * [微软电脑管家](https://www.bing.com/guanjia)            
