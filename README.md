@@ -30,7 +30,7 @@
 
 * [OpenWrt_CN](https://bingmeme.github.io/OpenWrt_CN/) (路由器翻墙)        
 * [SagerNet](https://github.com/SagerNet/SagerNet/releases) (安卓翻墙)       
-* [shadowsocksr-v2ray-trojan](https://github.com/xxf098/shadowsocksr-v2ray-trojan-android) (安卓翻墙)     
+* [shadowsocksr-v2ray-trojan](https://github.com/xxf098/shadowsocksr-v2ray-trojan-android/releases) (安卓翻墙)     
 * [ClashForWindows](https://github.com/Fndroid/clash_for_windows_pkg/releases) (windows翻墙)            
 
 ### 匿名邮箱            
