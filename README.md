@@ -8,6 +8,8 @@
 ## 上网目的相关           
 * [全球热门影视剧下载资源推送](https://t.me/joinchat/AAAAAEhkwtQjONQXe--Z8g)        
 
+<iframe width="100%" height="400" src="//player.bilibili.com/player.html?bvid=BV15A411x78v&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
+
 ## 上网工具相关
 
 ### telegram全平台客户端及汉化
@@ -16,7 +18,7 @@
 * [telegram汉化简体(官方测试版本)](https://t.me/setlanguage/zh-hans-raw)      
 * [telegram汉化繁体(官方测试版本)](https://t.me/setlanguage/zh-hant-raw)          
 
-<iframe width="100%" height="400" src="//player.bilibili.com/player.html?bvid=BV15A411x78v&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
+<iframe width="100%" height="400" src="//player.bilibili.com/player.html?bvid=BV11K411n7Wg&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
 
 ### 实用脚本   
 * [批量文件重命名](https://github.com/QinQinLeee/Note_File/releases/tag/rename)         
