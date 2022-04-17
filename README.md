@@ -48,7 +48,7 @@
 
 ### Chrome/Edge浏览器插件                 
 
-* [网页视频播放速率控制](https://chrome.google.com/webstore/detail/video-speed-manager/fkopaaikpmfhpmoobnmklgmcgmhgfkcd?hl=zh-CN)（B站AVC/AV1有效）
+* [网页视频播放速率控制](https://chrome.google.com/webstore/detail/video-speed-manager/fkopaaikpmfhpmoobnmklgmcgmhgfkcd?hl=zh-CN)（B站AV1/AVC有效）
 * [360查字体侵权](https://fonts.safe.360.cn/)     
 * [油猴脚本市场](https://greasyfork.org/zh-CN/scripts)   
 * [油猴插件](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo)      
