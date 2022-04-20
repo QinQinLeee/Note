@@ -134,8 +134,4 @@
 * [完美下载站](https://www.wmzhe.com/)        
 * [亦是美网络](http://www.yishimei.cn/)          
 
-
 ![1](https://user-images.githubusercontent.com/68980375/160987817-276207c4-8dc8-4363-a0ab-bab06b02b8f4.png)            
-
-如果您对此博客的内容有所建议，可以加入 [此群](https://t.me/+bykW8ZpJax4wYzc1) 沁沁寄居在这个群里。
-
