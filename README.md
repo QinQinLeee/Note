@@ -27,6 +27,10 @@
 
 <iframe width="100%" height="400" src="//player.bilibili.com/player.html?bvid=BV15A411x78v&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>    
 
+### 摸鱼           
+
+* [假装windows更新](https://zhangsixiang.gitee.io/windowsupdateprankbyfediafedia/)             
+
 ### 文件恢复          
 
 * [Windows文件恢复（微软命令行程序）的免费图形界面](https://www.disktool.cn/recovery/winfr.html)        
