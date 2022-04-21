@@ -6,12 +6,12 @@
 * 笔记上次更新时间：`2022.04.21`          
 
 一些人生经验：          
-* 笔记本电脑windows的显示设置中的缩放一定要维持100%，近视就带眼镜，也比你哪天访问一些SB开发写的前端被坑了好，中国gov等各事业单位网站都是NM中国特色前端，CNM。        
-* win10、win11永远不要主动检查更新                  
+* 笔记本电脑windows的显示设置中的缩放一定要维持100%，近视就带眼镜，也比你哪天访问一些SB开发写的前端被坑了好             
+* win10、win11 永远不要主动检查更新                  
 
 ## 上网目的相关        
 
-* [全球热门影视剧 1080p/4k 网盘下载：电报中央电视台综合频道](https://t.me/joinchat/AAAAAEhkwtQjONQXe--Z8g) （电报频道，需要翻墙注册登录电报，1080p/4k只提供热门的）          
+* [全球热门影视剧网盘下载：电报中央电视台综合频道](https://t.me/joinchat/AAAAAEhkwtQjONQXe--Z8g) （电报频道，需要翻墙注册登录电报，1080p/4k只提供热门的）          
 * [全球热门影视剧在线观看：泥巴影院](https://www.mudvod.tv/) （需要挂代理访问，个别国家的IP不行，香港IP一般不会被网站攻击防御Ban掉）               
 
 <iframe width="100%" height="400" src="//player.bilibili.com/player.html?bvid=BV1p7411s7Qa&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>       
