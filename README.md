@@ -14,7 +14,7 @@
 
 * [全球热门影视剧网盘下载：电报中央电视台综合频道](https://t.me/joinchat/AAAAAEhkwtQjONQXe--Z8g) （电报频道，需要翻墙注册登录电报，1080p/4k只提供热门的）          
 * [全球热门影视剧在线观看：泥巴影院](https://www.mudvod.tv/) （需要挂代理访问，个别国家的IP不行，香港IP一般不会被网站攻击防御Ban掉）       
-* [Youtube第三方客户端SmartTubeNext](https://smartyoutubetv.github.io/) （适用于机顶盒/安卓TV）                  
+* [Youtube第三方客户端SmartTubeNext](https://smartyoutubetv.github.io/) （适用于机顶盒/安卓TV，支持4k，无需谷歌服务框架环境）                  
 
 <iframe width="100%" height="400" src="//player.bilibili.com/player.html?bvid=BV1p7411s7Qa&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>       
 
