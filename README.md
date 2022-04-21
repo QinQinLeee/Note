@@ -129,7 +129,8 @@
 * [英特尔驱动程序和支持助理](https://www.intel.cn/content/www/cn/zh/support/detect.html)
 * [硬盘大体积文件可视化查找](https://www.diskanalyzer.com/)      
 * [火绒安全](https://www.huorong.cn/)     
-* [微软电脑管家](https://www.bing.com/guanjia)            
+* [微软电脑管家](https://www.bing.com/guanjia)      
+* [极客卸载windows软件](https://geekuninstaller.com/) （包括支持卸载UWP，有免费版本）                           
 
 ### 分区                   
 
