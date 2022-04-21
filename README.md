@@ -29,6 +29,7 @@
 
 ### 文件恢复          
 
+* [Windows文件恢复（微软命令行程序）的免费图形界面](https://www.disktool.cn/recovery/winfr.html)        
 * [win10系统下文件恢复：Windows File Recovery（Windows 文件恢复）](./tool/recover.md)                     
 
 ### 实用脚本            
