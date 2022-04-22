@@ -51,6 +51,10 @@
 * [shadowsocksr-v2ray-trojan](https://github.com/xxf098/shadowsocksr-v2ray-trojan-android/releases) (安卓翻墙)     
 * [ClashForWindows](https://github.com/Fndroid/clash_for_windows_pkg/releases) (windows翻墙)            
 
+#### 翻墙客户端教程
+
+* [ClashForWindows自定义代理规则](./fanqiang/clashWinDIYRule.md)     
+
 ### 匿名邮箱            
 
 * [著名匿名邮箱服务商protonmail](https://protonmail.com/)     
