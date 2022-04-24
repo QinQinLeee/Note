@@ -89,7 +89,8 @@
 * [我告诉你](https://next.itellyou.cn) (取代MSDN我告诉你)        
 * [MSDN我告诉你](https://msdn.itellyou.cn/) (已经停更)                                                     
 * [云萌Windows10激活工具](https://cmwtat.cloudmoe.com/cn.html)        
-* [宝塔，简单好用的服务器运维面板](https://www.bt.cn/)                    
+* [宝塔，简单好用的服务器运维面板](https://www.bt.cn/)                   
+* [阿里巴巴开源镜像站](https://developer.aliyun.com/mirror/)  
 * [清华大学开源软件镜像站](https://mirrors.tuna.tsinghua.edu.cn/)       
 * [凤凰系统x86版](http://www.phoenixos.com/download_x86)  
 
