@@ -39,6 +39,10 @@
 * [ToDesk远程控制](https://www.todesk.com/)        
 * 
 
+### 视频工作者
+
+* [小丸工具箱](https://maruko.appinn.me/) （视频压制）
+
 ### 文件恢复          
 
 * [Windows文件恢复（微软命令行程序）的免费图形界面](https://www.disktool.cn/recovery/winfr.html)        
