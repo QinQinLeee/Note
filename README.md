@@ -34,6 +34,11 @@
 
 * [假装windows更新](https://zhangsixiang.gitee.io/windowsupdateprankbyfediafedia/)             
 
+### 远程
+
+* [ToDesk远程控制](https://www.todesk.com/)        
+* 
+
 ### 文件恢复          
 
 * [Windows文件恢复（微软命令行程序）的免费图形界面](https://www.disktool.cn/recovery/winfr.html)        
