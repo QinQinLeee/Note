@@ -29,6 +29,9 @@
 * [telegram汉化简体(官方测试版本)](https://t.me/setlanguage/zh-hans-raw)      
 * [telegram汉化繁体(官方测试版本)](https://t.me/setlanguage/zh-hant-raw)          
 
+### 延寿        
+* [延寿](https://github.com/geekan/HowToLiveLonger)
+
 <iframe width="100%" height="400" src="//player.bilibili.com/player.html?bvid=BV15A411x78v&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>    
 
 ### 摸鱼           
