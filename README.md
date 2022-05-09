@@ -46,7 +46,8 @@
 ### 视频工作者
 
 * [小丸工具箱](https://maruko.appinn.me/) （视频压制）          
-* [工厂](http://www.pcfreetime.com/) （格式工厂、图片工厂）         
+* [工厂](http://www.pcfreetime.com/) （格式工厂、图片工厂）   
+* [美图秀秀PC版](https://pc.meitu.com/) （轻量PS）       
 
 ### 文件恢复          
 
