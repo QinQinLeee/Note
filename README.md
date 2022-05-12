@@ -30,6 +30,25 @@
 * [telegram汉化简体(官方测试版本)](https://t.me/setlanguage/zh-hans-raw)      
 * [telegram汉化繁体(官方测试版本)](https://t.me/setlanguage/zh-hant-raw)          
 
+### 翻墙客户端               
+
+#### 路由
+* [OpenWrt_CN](https://bingmeme.github.io/OpenWrt_CN/)      
+* [Padavan](https://opt.cn2qq.com/)        
+
+#### 安卓
+* [ClashForAndroid by SagerNet](https://github.com/SagerNet/ClashForAndroid/releases)       
+* [SagerNet](https://github.com/SagerNet/SagerNet/releases)      
+* [shadowsocksr-v2ray-trojan](https://github.com/xxf098/shadowsocksr-v2ray-trojan-android/releases)        
+
+#### windows
+* [ClashForWindows by SagerNet](https://github.com/SagerNet/clash/releases)      
+* [ClashForWindows](https://github.com/Fndroid/clash_for_windows_pkg/releases)    
+
+#### 翻墙客户端教程
+
+* [ClashForWindows自定义代理规则](./fanqiang/clashWinDIYRule.md)     
+
 ### 延寿        
 * [延寿](https://github.com/geekan/HowToLiveLonger)
 
@@ -59,25 +78,6 @@
 * [批量文件重命名](https://github.com/QinQinLeee/Note_File/releases/tag/rename)         
 
 <iframe width="100%" height="400" src="//player.bilibili.com/player.html?bvid=BV11K411n7Wg&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>          
-
-### 翻墙客户端               
-
-#### 路由
-* [OpenWrt_CN](https://bingmeme.github.io/OpenWrt_CN/)      
-* [Padavan](https://opt.cn2qq.com/)        
-
-#### 安卓
-* [ClashForAndroid by SagerNet](https://github.com/SagerNet/ClashForAndroid/releases)       
-* [SagerNet](https://github.com/SagerNet/SagerNet/releases)      
-* [shadowsocksr-v2ray-trojan](https://github.com/xxf098/shadowsocksr-v2ray-trojan-android/releases)        
-
-#### windows
-* [ClashForWindows by SagerNet](https://github.com/SagerNet/clash/releases)      
-* [ClashForWindows](https://github.com/Fndroid/clash_for_windows_pkg/releases)    
-
-#### 翻墙客户端教程
-
-* [ClashForWindows自定义代理规则](./fanqiang/clashWinDIYRule.md)     
 
 ### 匿名邮箱            
 
