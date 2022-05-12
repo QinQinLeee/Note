@@ -36,7 +36,7 @@
 * [shadowsocksr-v2ray-trojan](https://github.com/xxf098/shadowsocksr-v2ray-trojan-android/releases)        
 
 #### windows
-* [ClashForWindows by SagerNet](https://github.com/SagerNet/clash/releases)      
+* [ClashForWindows by SagerNet](https://github.com/SagerNet/clash/releases) (无GUI友善，小白别碰)     
 * [ClashForWindows](https://github.com/Fndroid/clash_for_windows_pkg/releases)    
 
 #### 翻墙客户端教程
