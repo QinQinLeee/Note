@@ -98,7 +98,8 @@
 ### 操作系统及软件              
 
 * [win网速及CPU占用监控](https://github.com/zhongyang219/TrafficMonitor/releases)
-* [ssh & ftp 一体化软件：FinalShell](http://www.hostbuf.com/c/131.html)         
+* [Xshell/Xftp](https://www.xshell.com/zh/free-for-home-school/)      
+* [ssh&ftp一体化：FinalShell](http://www.hostbuf.com/c/131.html)         
 * [格式工厂&图片工厂](http://pcfreetime.com/index.php?language=zh)                        
 * [Chrome离线包备份频道](https://t.me/joinchat/VFvmXBJDwNlXH567)   
 * [装机启动盘框架Ventoy](https://github.com/ventoy/Ventoy/releases)            
