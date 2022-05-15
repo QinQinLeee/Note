@@ -1,11 +1,13 @@
 # 沁沁笔记        
 
-![李沁](https://user-images.githubusercontent.com/68980375/162761340-3ebb6727-0bb4-4c6f-b09c-cd67c5bdc1f8.jpg)                  
+![logo](./1.png)       
 
 * 注意：本页面大部分链接需要翻墙访问    
 * 部分页面的图较小时，您可以放大网页查看清楚          
 * 本博客立志成为最好的导航站          
-* 笔记上次更新时间：`2022.05.12`          
+* 笔记上次更新时间：`2022.05.12`                 
+
+![李沁](https://user-images.githubusercontent.com/68980375/162761340-3ebb6727-0bb4-4c6f-b09c-cd67c5bdc1f8.jpg)             
 
 ## 上网目的相关        
 
