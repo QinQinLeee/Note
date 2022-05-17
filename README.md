@@ -103,7 +103,6 @@
 * [Xshell/Xftp](https://www.xshell.com/zh/free-for-home-school/) （Xftp读写文件时注意设置目录权限）    
 * [ssh&ftp一体化：FinalShell](http://www.hostbuf.com/c/131.html)         
 * [格式工厂&图片工厂](http://pcfreetime.com/index.php?language=zh)                        
-* [Chrome离线包备份频道](https://t.me/joinchat/VFvmXBJDwNlXH567)   
 * [装机启动盘框架Ventoy](https://github.com/ventoy/Ventoy/releases)            
 * [微软官方win10下载地址](https://www.microsoft.com/zh-cn/software-download/windows10)       
 * [我告诉你](https://next.itellyou.cn) (取代MSDN我告诉你)        
