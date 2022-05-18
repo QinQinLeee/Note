@@ -170,7 +170,7 @@
 
 ### AI换脸                 
 
-* [deepfacelab中文论坛](https://www.dfldata.xyz/) （不是发布你想要的那种...只提供工具使用讨论（但是有训练素材提供））      
+* [deepfacelab中文论坛](https://www.dfldata.xyz/)    
 
 ### 综合软件程序下载站                   
 
