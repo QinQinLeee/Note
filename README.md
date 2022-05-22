@@ -99,8 +99,8 @@
 
 * [TrafficMonitor](https://github.com/zhongyang219/TrafficMonitor/releases) （win网速及CPU占用监控）          
 * [XMeters](https://entropy6.com/xmeters/) （win网速及CPU占用监控，大厂开发，免费版显示频率受限在三秒，付费也就5美元左右）   
-* [Xshell/Xftp](https://www.xshell.com/zh/free-for-home-school/) （Xftp也支持在ssh客户端唤起ftp客户端哦！另外读写文件时注意设置目录权限）    
-* [FinalShell](http://www.hostbuf.com/c/131.html) （ssh&ftp一体化）         
+* [Xshell/Xftp](https://www.xshell.com/zh/free-for-home-school/) （Xshell支持在界面唤起Xftp客户端，也算是ssh/ftp一体化软件了，另外读写文件时注意设置目录权限）    
+* [FinalShell](http://www.hostbuf.com/c/131.html) （ssh/ftp一体化）         
 * [格式工厂&图片工厂](http://pcfreetime.com/index.php?language=zh)                        
 * [装机启动盘框架Ventoy](https://github.com/ventoy/Ventoy/releases)            
 * [微软官方win10下载地址](https://www.microsoft.com/zh-cn/software-download/windows10)       
