@@ -97,7 +97,8 @@
 
 ### 操作系统及软件              
 
-* [win网速及CPU占用监控](https://github.com/zhongyang219/TrafficMonitor/releases)
+* [TrafficMonitor](https://github.com/zhongyang219/TrafficMonitor/releases) （win网速及CPU占用监控）          
+* [XMeters](https://entropy6.com/xmeters/) （win网速及CPU占用监控，大厂开发，免费版显示频率受限在三秒，付费也就5美元左右）   
 * [Xshell/Xftp](https://www.xshell.com/zh/free-for-home-school/) （Xftp读写文件时注意设置目录权限）    
 * [ssh&ftp一体化：FinalShell](http://www.hostbuf.com/c/131.html)         
 * [格式工厂&图片工厂](http://pcfreetime.com/index.php?language=zh)                        
