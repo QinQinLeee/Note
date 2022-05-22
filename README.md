@@ -11,7 +11,7 @@
 
 * [电报中央电视台综合频道](https://t.me/joinchat/AAAAAEhkwtQjONQXe--Z8g) （全球热门影视剧网盘下载，电报频道，需要翻墙注册登录电报，主要提供国内各大网盘分享链接，免翻墙流量下载）
 * [泥巴影院](https://www.mudvod.tv/) （在线观看，唯一缺点是需要挂代理访问、挑IP属地、耗费翻墙流量多）       
-* [Youtube第三方客户端SmartTubeNext](https://smartyoutubetv.github.io/) （适用于机顶盒/安卓TV，支持4k，无需谷歌服务框架环境）                  
+* [SmartTubeNext](https://smartyoutubetv.github.io/) （Youtube第三方客户端，适用于机顶盒/安卓TV，支持4k，无需谷歌服务框架环境）                  
 
 <iframe width="100%" height="400" src="//player.bilibili.com/player.html?bvid=BV1p7411s7Qa&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>       
 
@@ -19,10 +19,10 @@
 
 ### telegram全平台客户端及汉化           
 
-* [telegram官方下载地址](https://telegram.org/apps)               
-* [telegram汉化简体(推荐第三方)](https://t.me/setlanguage/classic-zh)     
-* [telegram汉化简体(官方测试版本)](https://t.me/setlanguage/zh-hans-raw)      
-* [telegram汉化繁体(官方测试版本)](https://t.me/setlanguage/zh-hant-raw)          
+* [telegram APPs官方下载地址](https://telegram.org/apps)               
+* [telegram汉化简体](https://t.me/setlanguage/classic-zh) (推荐第三方)    
+* [telegram汉化简体](https://t.me/setlanguage/zh-hans-raw) (官方测试版本)      
+* [telegram汉化繁体](https://t.me/setlanguage/zh-hant-raw) (官方测试版本)         
 
 ### 翻墙客户端               
 
@@ -64,8 +64,8 @@
 
 ### 文件恢复          
 
-* [Windows文件恢复（微软命令行程序）的免费图形界面](https://www.disktool.cn/recovery/winfr.html)        
-* [win10系统下文件恢复：Windows File Recovery（Windows 文件恢复）](./tool/recover.md)                     
+* [WinFR](https://www.disktool.cn/recovery/winfr.html) （Windows文件恢复（微软命令行程序）的免费图形界面）        
+* [Windows File Recovery](./tool/recover.md) （windows文件恢复）                     
 
 ### 实用脚本            
 
@@ -75,14 +75,14 @@
 
 ### 匿名邮箱            
 
-* [著名匿名邮箱服务商protonmail](https://protonmail.com/)     
+* [protonmail](https://protonmail.com/) （著名匿名邮箱服务商）    
 * [临时邮箱](https://linshiyouxiang.net/)     
 * [虚假身份生成](https://www.fakenamegenerator.com/index.php)    
 
 ### win11/win10                   
 
-* [为何不win11](https://github.com/rcmaehl/WhyNotWin11)     
-* [windows insider注册或退出](https://insider.windows.com/zh-cn/)         
+* [为何无法升级win11](https://github.com/rcmaehl/WhyNotWin11)     
+* [windows insider计划注册或退出](https://insider.windows.com/zh-cn/)         
 
 ### Chrome/Edge浏览器插件                 
 
@@ -99,15 +99,15 @@
 
 * [TrafficMonitor](https://github.com/zhongyang219/TrafficMonitor/releases) （win网速及CPU占用监控）          
 * [XMeters](https://entropy6.com/xmeters/) （win网速及CPU占用监控，大厂开发，免费版显示频率受限在三秒，付费也就5美元左右）   
-* [Xshell/Xftp](https://www.xshell.com/zh/free-for-home-school/) （Xftp读写文件时注意设置目录权限）    
-* [ssh&ftp一体化：FinalShell](http://www.hostbuf.com/c/131.html)         
+* [Xshell/Xftp](https://www.xshell.com/zh/free-for-home-school/) （Xftp也支持在ssh客户端唤起ftp客户端哦！另外读写文件时注意设置目录权限）    
+* [FinalShell](http://www.hostbuf.com/c/131.html) （ssh&ftp一体化）         
 * [格式工厂&图片工厂](http://pcfreetime.com/index.php?language=zh)                        
 * [装机启动盘框架Ventoy](https://github.com/ventoy/Ventoy/releases)            
 * [微软官方win10下载地址](https://www.microsoft.com/zh-cn/software-download/windows10)       
 * [我告诉你](https://next.itellyou.cn) (取代MSDN我告诉你)        
 * [MSDN我告诉你](https://msdn.itellyou.cn/) (已经停更)                                                     
 * [云萌Windows10激活工具](https://cmwtat.cloudmoe.com/cn.html)        
-* [宝塔，简单好用的服务器运维面板](https://www.bt.cn/)                   
+* [宝塔](https://www.bt.cn/) （简单好用的服务器运维面板  ）                 
 * [阿里巴巴开源镜像站](https://developer.aliyun.com/mirror/)  
 * [清华大学开源软件镜像站](https://mirrors.tuna.tsinghua.edu.cn/)       
 * [凤凰系统x86版](http://www.phoenixos.com/download_x86)  
@@ -146,8 +146,8 @@
 ### 播放器/浏览器/阅读器                
 
 * [PC播放器](./tool/PCBoFangQi.md)            
-* [手机浏览器(播放器)](./tool/ShouJiLiuLanQi.md)       
-* [PDF开源短小精悍阅读器SumatraPDF](https://www.sumatrapdfreader.org/free-pdf-reader)        
+* [手机播放器](./tool/ShouJiLiuLanQi.md)       
+* [SumatraPDF](https://www.sumatrapdfreader.org/free-pdf-reader) （PDF开源短小精悍阅读器）        
 
 ### 压缩解压缩                
 
@@ -155,7 +155,7 @@
 
 ### 电脑管家                  
 
-* [Nvidia显卡驱动管理GeForceExperience](https://www.nvidia.cn/geforce/geforce-experience/)
+* [GeForceExperience](https://www.nvidia.cn/geforce/geforce-experience/) （英伟达Nvidia显卡驱动管理）
 * [英特尔驱动程序和支持助理](https://www.intel.cn/content/www/cn/zh/support/detect.html)
 * [硬盘大体积文件可视化查找](https://www.diskanalyzer.com/)      
 * [火绒安全](https://www.huorong.cn/)     
@@ -169,12 +169,13 @@
 
 ### AI换脸                 
 
-* [deepfacelab中文论坛](https://www.dfldata.xyz/)    
+* [deepfacelab官方中文论坛](https://www.dfldata.xyz/)    
 
 ### 综合软件程序下载站                   
 
 * [完美下载站](https://www.wmzhe.com/)        
-* [亦是美网络](http://www.yishimei.cn/)          
+* [亦是美网络](http://www.yishimei.cn/)     
+* [NirSoft](http://www.nirsoft.net/)     
 
 # 一些人生经验          
 * 笔记本电脑windows的显示设置中的缩放一定要维持100%，近视就带眼镜，也比你哪天访问一些SB开发写的前端被坑了好             
