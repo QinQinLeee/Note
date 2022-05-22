@@ -43,8 +43,13 @@
 
 * [ClashForWindows自定义代理规则](./fanqiang/clashWinDIYRule.md)     
 
-### 延寿        
-* [延寿](https://github.com/geekan/HowToLiveLonger)
+### 实用工具
+
+* [电费计算器](https://dianfeijisuanqi.bmcx.com/)         
+* [日期计算](http://bjtime.cn/riqi/)      
+* [数据速率计算](http://www.zhongguosou.com/computer_question_tools/data_rate_caculator.html)      
+* [LaTeX公式编辑器](https://www.latexlive.com/)       
+* [便民查询网](https://www.bmcx.com/)   
 
 <iframe width="100%" height="400" src="//player.bilibili.com/player.html?bvid=BV15A411x78v&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>    
 
@@ -55,6 +60,10 @@
 ### 远程
 
 * [ToDesk远程控制](https://www.todesk.com/)        
+
+### 办公
+
+* [officeplus](https://www.officeplus.cn/) （免费强大微软中国官方office文档模板）
 
 ### 视频工作者
 
@@ -132,18 +141,7 @@
 * [百度视频翻译](http://fanyi-video.baidu.com/) (人工翻译收费)        
 * [免费正版高清图片素材库](https://pixabay.com/zh/)                                 
 * [网站图标favicon在线生成](https://tool.lu/favicon)      
-
-### 办公
-
-* [officeplus](https://www.officeplus.cn/) （免费强大微软中国官方office文档模板）
-
-### 换算                  
-
-* [电费计算器](https://dianfeijisuanqi.bmcx.com/)         
-* [日期计算](http://bjtime.cn/riqi/)      
-* [数据速率计算](http://www.zhongguosou.com/computer_question_tools/data_rate_caculator.html)      
-* [LaTeX公式编辑器](https://www.latexlive.com/)           
-          
+        
 ### 播放器/浏览器/阅读器                
 
 * [PC播放器](./tool/PCBoFangQi.md)            
@@ -177,6 +175,9 @@
 * [完美下载站](https://www.wmzhe.com/)        
 * [亦是美网络](http://www.yishimei.cn/)     
 * [NirSoft](http://www.nirsoft.net/)     
+
+### 延寿        
+* [延寿](https://github.com/geekan/HowToLiveLonger)
 
 # 一些人生经验          
 * 笔记本电脑windows的显示设置中的缩放一定要维持100%，近视就带眼镜，也比你哪天访问一些SB开发写的前端被坑了好             
