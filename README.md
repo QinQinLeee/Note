@@ -1,4 +1,4 @@
-# 沁沁笔记             
+# 乾坤大挪移秘籍             
 
 * 注意：本页面大部分链接需要翻墙访问    
 * 部分页面的图较小时，您可以放大网页查看清楚          
@@ -9,8 +9,8 @@
 
 ## 上网目的相关        
 
-* [电报中央电视台综合频道](https://t.me/joinchat/AAAAAEhkwtQjONQXe--Z8g) （全球热门影视剧网盘下载，电报频道，需要翻墙注册登录电报，主要提供国内各大网盘分享链接，免翻墙流量下载）
-* [泥巴影院](https://www.mudvod.tv/) （在线观看，唯一缺点是需要挂代理访问、挑IP属地、耗费翻墙流量多）       
+* [泥巴影院](https://www.mudvod.tv/) （在线观看，唯一缺点是需要挂代理访问、挑IP属地、耗费翻墙流量多）        
+* [TCTV-1](https://t.me/joinchat/AAAAAEhkwtQjONQXe--Z8g) （全球热门影视剧网盘下载，电报频道，需要翻墙注册登录电报，主要提供国内各大网盘分享链接，免翻墙流量下载）    
 * [SmartTubeNext](https://smartyoutubetv.github.io/) （Youtube第三方客户端，适用于机顶盒/安卓TV，支持4k，无需谷歌服务框架环境）                  
 
 <iframe width="100%" height="400" src="//player.bilibili.com/player.html?bvid=BV1p7411s7Qa&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>       
@@ -26,9 +26,10 @@
 
 ### 翻墙客户端               
 
-#### 路由
-* [OpenWrt_CN](https://bingmeme.github.io/OpenWrt_CN/)      
+#### 路由 
+
 * [Padavan](https://opt.cn2qq.com/)        
+* [OpenWrt_CN](https://bingmeme.github.io/OpenWrt_CN/)      
 
 #### 安卓
 * [ClashForAndroid by SagerNet](https://github.com/SagerNet/ClashForAndroid/releases)       
