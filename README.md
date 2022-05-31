@@ -31,7 +31,7 @@
 
 * [Padavan](https://opt.cn2qq.com/)        
 * [OpenWrt_CN](https://bingmeme.github.io/OpenWrt_CN/)       
-* [OpenWrt for Amlogic芯片电视盒子](https://github.com/ophub/amlogic-s9xxx-openwrt/)
+* [OpenWrt for Amlogic芯片电视盒子](https://github.com/ophub/amlogic-s9xxx-openwrt/) （包括斐讯N1。小白别碰，你不会折腾）
 
 #### 安卓
 * [ClashForAndroid by SagerNet](https://github.com/SagerNet/ClashForAndroid/releases)       
