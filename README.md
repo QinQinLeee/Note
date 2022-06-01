@@ -5,8 +5,6 @@
 * 本博客立志成为最好的导航站          
 * 笔记上次更新时间：`2022.05.24`                 
 
-![李沁](https://user-images.githubusercontent.com/68980375/162761340-3ebb6727-0bb4-4c6f-b09c-cd67c5bdc1f8.jpg)             
-
 ## 上网目的相关        
 
 * [泥巴影院](https://www.mudvod.tv/) （在线观看，唯一缺点是需要挂代理访问、挑IP属地、耗费翻墙流量多）        
