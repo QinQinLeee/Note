@@ -46,6 +46,7 @@
 
 ### 实用工具
 
+* [万事指南](https://zh.wikihow.com/)
 * [电费计算器](https://dianfeijisuanqi.bmcx.com/)         
 * [日期计算](http://bjtime.cn/riqi/)      
 * [数据速率计算](http://www.zhongguosou.com/computer_question_tools/data_rate_caculator.html)      
