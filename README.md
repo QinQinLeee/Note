@@ -46,6 +46,7 @@
 
 ### 实用工具
 
+* [境外游戏平台加速访问](https://steampp.net/)
 * [万事指南](https://zh.wikihow.com/)
 * [电费计算器](https://dianfeijisuanqi.bmcx.com/)         
 * [日期计算](http://bjtime.cn/riqi/)      
