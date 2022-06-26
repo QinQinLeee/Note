@@ -68,6 +68,10 @@
 
 * [officeplus](https://www.officeplus.cn/) （免费强大微软中国官方office文档模板）
 
+### 程序员
+
+* [开发者的演示文稿](https://cn.sli.dev/)
+
 ### 视频工作者
 
 * [小丸工具箱](https://maruko.appinn.me/) （视频压制）          
