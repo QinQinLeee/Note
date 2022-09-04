@@ -3,7 +3,7 @@
 * 注意：本页面大部分链接需要翻墙访问    
 * 部分页面的图较小时，您可以放大网页查看清楚          
 * 本博客立志成为最好的导航站          
-* 笔记上次更新时间：`2022.05.24`                 
+* 笔记上次更新时间：`2022.09.04`                 
 
 ## 上网目的相关        
 
@@ -25,19 +25,18 @@
 
 ### 翻墙客户端               
 
-#### 路由 
+#### 路由端 
 
-* [Padavan](https://opt.cn2qq.com/)        
-* [OpenWrt_CN](https://bingmeme.github.io/OpenWrt_CN/)       
-* [OpenWrt for Amlogic芯片电视盒子](https://github.com/ophub/amlogic-s9xxx-openwrt/) （包括斐讯N1。小白别碰，你不会折腾）
+* [OpenWrt](https://bingmeme.github.io/OpenWrt_CN/)    
+* [Padavan](https://opt.cn2qq.com/)    
 
-#### 安卓
-* [ClashForAndroid by SagerNet](https://github.com/SagerNet/ClashForAndroid/releases)       
+#### 安卓端 
+
+* [surfboard](https://github.com/getsurfboard/surfboard/releases)
 * [SagerNet](https://github.com/SagerNet/SagerNet/releases)      
-* [shadowsocksr-v2ray-trojan](https://github.com/xxf098/shadowsocksr-v2ray-trojan-android/releases)        
 
-#### windows
-* [ClashForWindows by SagerNet](https://github.com/SagerNet/clash/releases) (无GUI友善，小白别碰)     
+#### windows端 
+
 * [ClashForWindows](https://github.com/Fndroid/clash_for_windows_pkg/releases)    
 
 #### 翻墙客户端教程
