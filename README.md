@@ -1,3 +1,5 @@
+<link rel="shortcut icon" type="image/x-icon" href="./favicon.ico">                    
+
 # 乾坤大挪移秘籍             
 
 * 注意：本页面大部分链接需要翻墙访问    
