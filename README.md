@@ -18,6 +18,7 @@
         
 ### 视频网站
 
+* [哔哩哔哩排行榜](https://www.bilibili.com/v/popular/all/) （掌握网络流行趋势）
 * [SmartTubeNext](https://smartyoutubetv.github.io/) （Youtube第三方客户端，适用于机顶盒/安卓TV，支持4k，无需谷歌服务框架环境）          
 
 ### 电视直播
