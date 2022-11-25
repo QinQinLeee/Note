@@ -24,6 +24,10 @@
 * [telegram汉化简体](https://t.me/setlanguage/zh-hans-raw) (官方测试版本)      
 * [telegram汉化繁体](https://t.me/setlanguage/zh-hant-raw) (官方测试版本)         
 
+### 买买买
+
+* [海外AppleID](https://idappstore.com/)
+
 ### 翻墙客户端               
 
 #### 路由端 
