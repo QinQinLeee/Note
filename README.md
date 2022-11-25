@@ -22,6 +22,10 @@
 
 ## 上网工具相关
 
+### 追剧笔记软件
+
+* [有道云笔记](https://note.youdao.com/) （全平台客户端，可以用来记录影视剧看的进度）                
+
 ### telegram全平台客户端及汉化           
 
 * [telegram APPs官方下载地址](https://telegram.org/apps)               
