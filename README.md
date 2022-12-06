@@ -68,6 +68,7 @@
 
 ### 实用工具
 
+* [腾讯云DNS](https://www.dnspod.cn/Products/publicdns)
 * [境外游戏平台加速访问](https://steampp.net/)
 * [万事指南](https://zh.wikihow.com/)
 * [电费计算器](https://dianfeijisuanqi.bmcx.com/)         
