@@ -143,7 +143,8 @@
 * [装机启动盘框架Ventoy](https://github.com/ventoy/Ventoy/releases)            
 * [微软官方win10下载地址](https://www.microsoft.com/zh-cn/software-download/windows10)       
 * [我告诉你](https://next.itellyou.cn) (取代MSDN我告诉你)        
-* [MSDN我告诉你](https://msdn.itellyou.cn/) (已经停更)                                                     
+* [MSDN我告诉你](https://msdn.itellyou.cn/) (已经停更)       
+* [HEU-KMS激活](https://github.com/zbezj/HEU_KMS_Activator/releases)
 * [云萌Windows10激活工具](https://cmwtat.cloudmoe.com/cn.html)        
 * [宝塔](https://www.bt.cn/) （简单好用的服务器运维面板  ）                 
 * [阿里巴巴开源镜像站](https://developer.aliyun.com/mirror/)  
