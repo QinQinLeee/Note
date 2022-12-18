@@ -51,6 +51,7 @@
 
 #### 安卓端 
 
+* [ssray](https://github.com/xxf098/shadowsocksr-v2ray-trojan-android/releases)
 * [surfboard](https://github.com/getsurfboard/surfboard/releases)
 * [SagerNet](https://github.com/SagerNet/SagerNet/releases)      
 
