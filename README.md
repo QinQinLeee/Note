@@ -205,7 +205,9 @@
 * [NirSoft](http://www.nirsoft.net/)     
 
 ### 延寿        
-* [延寿](https://github.com/geekan/HowToLiveLonger)
+* [致死因素](https://github.com/geekan/HowToLiveLonger)   
+* [如何做饭](https://cook.aiurs.co/)
+* [与新冠共存](https://github.com/geekan/HowToLiveWithCovid)
 
 # 一些人生经验          
 * 笔记本电脑windows的显示设置中的缩放一定要维持100%，近视就带眼镜，也比你哪天访问一些SB开发写的前端被坑了好             
