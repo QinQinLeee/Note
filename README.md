@@ -10,7 +10,7 @@
 * [TCTV-1](https://t.me/joinchat/AAAAAEhkwtQjONQXe--Z8g) （全球热门影视剧网盘下载，电报频道，需要翻墙注册登录电报，主要提供国内各大网盘分享链接，免翻墙流量下载）       
 * [多瑙影视](https://duonaovod.com/) （在线观看）   
 * [哔嘀影视](https://www.bdys.me/) （在线观看）
-* [大师兄影视](https://dsxys.com/) （在线观看）             
+* [大师兄影视](https://dsxys.pro/) （在线观看）             
         
 ### 视频网站
 
