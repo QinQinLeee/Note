@@ -29,6 +29,7 @@
 ### 追剧笔记软件
 
 * [有道云笔记](https://note.youdao.com/) （全平台客户端，可以用来记录影视剧看的进度）      
+* [joplin](https://github.com/laurent22/joplin)（全平台开源云笔记，支持onedrive登录）
 * [豆瓣APP]（手机应用市场自行搜索下载，可用来记录看过的剧，以防后来再看一遍...）
 
 ### telegram全平台客户端及汉化           
