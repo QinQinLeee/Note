@@ -6,8 +6,8 @@
 
 ### 影视剧
 
-* [泥视频](https://www.nivod.tv/) （在线观看，唯一缺点是需要挂代理访问、挑IP属地、耗费翻墙流量多）      
-* [TCTV-1](https://t.me/joinchat/AAAAAEhkwtQjONQXe--Z8g) （全球热门影视剧网盘下载，电报频道，需要翻墙注册登录电报，主要提供国内各大网盘分享链接，免翻墙流量下载）       
+* [泥视频](https://www.nivod.tv/) （在线观看，需挂代理）      
+* [TCTV-1](https://t.me/joinchat/AAAAAEhkwtQjONQXe--Z8g) （影视剧网盘分享，需翻墙注册电报）       
 * [多瑙影视](https://duonaovod.com/) （在线观看）   
 * [哔嘀影视](https://www.bdys.me/) （在线观看）
 * [大师兄影视](https://dsxys.pro/) （在线观看）             
