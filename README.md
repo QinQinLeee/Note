@@ -20,9 +20,7 @@
 ### 电视直播
 
 * [IPTV直播源](https://github.com/Free-TV/IPTV)
-* [wtv工具箱](https://github.com/biancangming/wtv)
-
-<iframe width="100%" height="400" src="//player.bilibili.com/player.html?bvid=BV1p7411s7Qa&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>       
+* [wtv工具箱](https://github.com/biancangming/wtv)  
 
 ## 上网工具相关
 
@@ -75,8 +73,6 @@
 * [LaTeX公式编辑器](https://www.latexlive.com/)       
 * [便民查询网](https://www.bmcx.com/)   
 
-<iframe width="100%" height="400" src="//player.bilibili.com/player.html?bvid=BV15A411x78v&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>    
-
 ### 摸鱼           
 
 * [假装windows更新](https://zhangsixiang.gitee.io/windowsupdateprankbyfediafedia/)             
@@ -107,8 +103,6 @@
 ### 实用脚本            
 
 * [批量文件重命名](https://github.com/QinQinLeee/Note_File/releases/tag/rename)         
-
-<iframe width="100%" height="400" src="//player.bilibili.com/player.html?bvid=BV11K411n7Wg&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>          
 
 ### 匿名邮箱            
 
