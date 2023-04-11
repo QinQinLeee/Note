@@ -117,7 +117,8 @@
 
 ### Chrome/Edge浏览器插件                 
 
-* [网页视频播放速率控制](https://chrome.google.com/webstore/detail/video-speed-manager/fkopaaikpmfhpmoobnmklgmcgmhgfkcd?hl=zh-CN)（B站AV1/AVC有效）
+* [网页视频播放速率控制](https://chrome.google.com/webstore/detail/video-speed-manager/fkopaaikpmfhpmoobnmklgmcgmhgfkcd?hl=zh-CN)（B站AV1/AVC有效）    
+* [在线视频音乐播放音量突破100%](https://microsoftedge.microsoft.com/addons/detail/volume-up-%E5%A2%9E%E5%8A%A0%E9%9F%B3%E9%87%8F/mhpmhnjaolahocdkejgamajjcaanjijh)
 * [360查字体侵权](https://fonts.safe.360.cn/)     
 * [油猴脚本市场](https://greasyfork.org/zh-CN/scripts)   
 * [油猴插件](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo)      
