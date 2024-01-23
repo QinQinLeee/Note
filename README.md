@@ -50,12 +50,14 @@
 
 #### 安卓端 
 
+* [ClashMetaForAndroid](https://github.com/MetaCubeX/ClashMetaForAndroid/releases)
 * [ssray](https://github.com/xxf098/shadowsocksr-v2ray-trojan-android/releases)
 * [surfboard](https://github.com/getsurfboard/surfboard/releases)
 * [SagerNet](https://github.com/SagerNet/SagerNet/releases)      
 
 #### windows端 
 
+* [clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev/releases)
 * [ClashForWindows](https://github.com/Fndroid/clash_for_windows_pkg/releases)    
 
 #### 翻墙客户端教程
